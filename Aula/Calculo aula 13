@@ -1,0 +1,22 @@
+for c in range(1,10):
+    passo
+pega
+
+
+(o comando range determina ate aonde ira se repetir)
+
+for c in range(1,3):
+    passo
+    pula
+passo
+pega
+
+Estrutura de condicionais em repetições
+
+for c in range (1,3):
+    if moeda == 1:
+        pega
+    passo
+    pula
+passo
+pega
